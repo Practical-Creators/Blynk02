@@ -4,7 +4,7 @@
 #define BLYNK_PRINT Serial
 #include <ESP8266WiFi.h>
 #include <BlynkSimpleEsp8266.h>
-char auth[] = "pPX4DvOhwPFa0bDF7rLzMWknj6FGIqsh";
+char auth[] = "your-auth-token";
 char ssid[] = "ssid";
 char pass[] = "password";
 
