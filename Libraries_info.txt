@@ -1,0 +1,3 @@
+Libraries Needed:
+1) Blynk: https://github.com/blynkkk/blynk-library/releases/tag/v1.0.1
+2) ESP8266Wifi: https://github.com/esp8266/Arduino/tree/master/libraries/ESP8266WiFi
